@@ -1,0 +1,4 @@
+main/static
+.idea
+source/settings.py
+out
